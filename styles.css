@@ -10,11 +10,12 @@
 
 body{
     background-color: var(--slate-300);
+    height: 100vh;
     margin: 0;
-    padding: 20px;
 
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .attribution{
@@ -23,20 +24,21 @@ body{
     background-color: var(--white);
     text-align: center;
     margin-top: 20px;
-    border-radius: 2rem;
+    border-radius: 1rem;
 
     width: 320px;
+    height: fit-content;
 }
 
 #qr-code{
-    border-radius: 2rem;
+    border-radius: 1rem;
     
     padding: 16px;
 }
 
 article{    
     padding: 16px;
-    
+    size: 100%;
 }
 
 article > h1{
