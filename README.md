@@ -1,4 +1,3 @@
-```markdown
 # Frontend Mentor - QR Code Component
 
 This is a solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -59,4 +58,3 @@ I plan to focus on improving my CSS skills, especially in creating reusable comp
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourhandle](https://twitter.com/yourhandle)
-```
